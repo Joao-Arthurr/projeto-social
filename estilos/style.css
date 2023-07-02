@@ -24,7 +24,7 @@ main {
 }
 
 section#redes-sociais {
-    padding-top: 50px;
+    padding-top: 90px;
     text-align: right;
     
 }
@@ -49,7 +49,7 @@ section#redes-sociais img:hover {
 section#celular {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 45%;
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
